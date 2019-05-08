@@ -4,6 +4,6 @@ public class GitGood{
 	}
 
 	public static String message() {
-		return "git good noob";
+		return "git good nOOb";
 	}
 }
