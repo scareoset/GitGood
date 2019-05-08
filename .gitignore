@@ -1,0 +1,8 @@
+# a .gitignore file
+
+# exclude pics
+*.png
+*.jpg
+
+# OS Files
+DS_Store
